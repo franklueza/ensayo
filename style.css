@@ -1,0 +1,167 @@
+/*Reset CSS -------------------------------*/
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+*{
+	box-sizing: border-box; /*Anchura total 0 width */
+}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* Cargando una Fuente*/
+@font-face{
+font-family: "Nombre de tipografía";
+src: url(fuente/OpenSans-Bold.tff) format("tff"),
+     url(fuente/OpenSans-Regular.tff) format("tff");
+font-weight: bold;
+font-style: normal;
+}
+/* Ordenando nuestra hoja de estilos de los más general a los más específico */
+/* Estilos Generales -----------------------*/
+body{
+
+  font-family: 'Open Sans', sans-serif;
+
+}
+h1 {
+
+    font-size: 44px;
+    color: #ffffff;
+    padding-top: 10%;
+    padding-right: 0px;
+    padding-bottom: 5%;
+    padding-left: 0px;
+}
+
+h2{
+    font-size: 28px;
+    color: #ffffff;
+    padding-top: 4%;
+    padding-right: 0px;
+    padding-bottom: 5%;
+    padding-left: 0px;
+}
+h3{
+    font-size: 25px;
+    color: #949494;
+    padding-top: 4%;
+    padding-right: 0px;
+    padding-bottom: 5%;
+    padding-left: 0px;
+    margin-left: 150px
+
+}
+p{
+  font-size: 20px;
+  color: #949494;
+  line-height: 1.8;
+  text-align: center;
+}
+.logo{
+
+}
+.fondo{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("img/hero.jpg");
+    min-height: 663px;
+    background-position: center;
+    width: 100%;
+    text-align: center;
+    padding: 0px 40px;
+}
+
+.content{
+    height: auto;
+
+    overflow: hidden;
+}
+.columone{
+    width: calc(50% - 30px);
+    min-height: 250px;
+    margin: 0px;
+    float: left;
+    padding-top: 4%;
+    padding-right: 0px;
+    padding-bottom: 5%;
+    padding-left: 0px;
+    margin-top:21px;
+    margin-left:30px;
+}
+.columtwo{
+    width: calc(50% - 30px);
+    min-height: 250px;
+    margin:0px;
+    float: right;
+    padding-top: 4%;
+    padding-right: 0px;
+    padding-bottom: 5%;
+    padding-left: 0px;
+    margin-top:21px;
+    margin-right: 30px;
+}
+.fondo2{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("img/work.jpg");
+  min-height: 663px;
+  background-position: center;
+  width: 100%;
+  text-align: left;
+  padding: 0px 40px;
+}
+.contact{
+  background-color: #242424;
+  text-align: center;
+}
+.email{
+  text-align: center;
+  padding-top: 4%;
+  padding-right: 0px;
+  padding-bottom: 5%;
+  padding-left: 0px;
+}
+a{
+  color: #949494;
+}
