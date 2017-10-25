@@ -1,5 +1,6 @@
 # Francisco Israel Lueza Martínez
-![alt text](ensayo/img/Lueza.jpj "Francsico Lueza1")
+![alt text](ensayo/img/Lueza.jpg "Francsico Lueza")
+![FrankLu Lueza](/img/lueza.jpg)
 ## Contacto
 * email: hola@franklu.com.mx
 * web: [franklu.com.mx](https://franklu.com.mx)
@@ -17,9 +18,13 @@ Soy una persona que le gusta estar aprendiendo nuevas cosas constantemete y sobr
 * Analytics
 * AdWords
 * Inbound
-### Colaboración actual
-[Forma Vital](https://www.formavital.com)
+### Colaboración actual en [Forma Vital](https://www.formavital.com)
 Actividades:
 * Análisis de datos del sitio web y de la página de Facebook
 * Administración del sitio web
 * Análisis SEO
+#### Proyectos personales a corto plazo
+* Capacitación a emprendedores
+* Formación de una consultoria de Marketing Digital
+* Creación de aplicaciones
+* Deserrollarme como Front-End
