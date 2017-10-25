@@ -1,5 +1,5 @@
 # Francisco Israel Lueza Martínez
-![FrankLu Lueza](https://github.com/franklueza/ensayo/blob/master/img/Lueza.jpg)
+![FrankLu Lueza](https://franklu.com.mx/wp-content/uploads/2017/09/Lueza-300x300.jpg)
 ## Contacto
 * email: hola@franklu.com.mx
 * web: [franklu.com.mx](https://franklu.com.mx)
